@@ -10,8 +10,8 @@ sha256: `c0d9f6ccd5de66661a30dd07d5d7bfd63871ecc87d53099e5a5a366a39549145`
 ---
 ![image](https://github.com/user-attachments/assets/e47c81b6-67a5-45db-9152-8d20657a3b82)
 Cluster docker swarm\
-2x NanoPi Neo3 (one more coming soon)\
-2Gb Ram, 64Gb MicroSD\
+2x NanoPi Neo3 (model 2Gb ram) (one more coming soon)\
+2x 64Gb MicroSD\
 1x Switch TP-Link TL-SG1008P
 
 ![image](https://github.com/user-attachments/assets/f4e75ed6-3671-417c-b15b-ca7cb51d61e9)
