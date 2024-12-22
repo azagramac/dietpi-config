@@ -4,7 +4,7 @@
 </p>
 
 ---
-DietPi, Bullseye: [v9.8](https://dietpi.com/downloads/images/DietPi_NanoPiNEO3-ARMv8-Bookworm.img.xz)\
+DietPi, bookworm: [v9.8](https://dietpi.com/downloads/images/DietPi_NanoPiNEO3-ARMv8-Bookworm.img.xz)\
 sha256: `c0d9f6ccd5de66661a30dd07d5d7bfd63871ecc87d53099e5a5a366a39549145`
 
 ---
