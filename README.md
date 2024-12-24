@@ -2,13 +2,16 @@
   <img src="https://github.com/user-attachments/assets/43726c51-3279-4c5f-98a7-2cbbc1f8bf46" width="200" title="nanopi_logo">
   <img src="https://github.com/user-attachments/assets/f341ce45-3a22-4203-9bb7-fe389014d980" width="200" title="dietpi_logo">
 </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/207cc972-96da-411b-8487-e511b7dad1be" width="150" title="swarm_logo">
+</p>
+
 
 ---
 DietPi, bookworm: [v9.8](https://dietpi.com/downloads/images/DietPi_NanoPiNEO3-ARMv8-Bookworm.img.xz)\
 sha256: `c0d9f6ccd5de66661a30dd07d5d7bfd63871ecc87d53099e5a5a366a39549145`
 
 ---
-![image](https://github.com/user-attachments/assets/e47c81b6-67a5-45db-9152-8d20657a3b82)
 Cluster docker swarm\
 2x NanoPi Neo3 (model 2Gb ram) (one more coming soon)\
 2x 64Gb MicroSD\
