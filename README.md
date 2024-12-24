@@ -74,6 +74,12 @@ docker swarm join --token {token} {ip_master}:2377
 ```
 <sup><em>Execute the command on each node you want to use as a manager.</sup></em>
 
+#### Deployment services. 
+```bash
+docker stack deploy -c docker-compose.yaml {name}
+```
+<sup><em>This command is executed only once on the master node.</sup></em>
+
 ### Settings dietpi-config
 ```bash
 Display Options > LED Control > mmc0
