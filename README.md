@@ -8,8 +8,8 @@
 
 
 ---
-DietPi, bookworm: [v9.8](https://dietpi.com/downloads/images/DietPi_NanoPiNEO3-ARMv8-Bookworm.img.xz)\
-sha256: `c0d9f6ccd5de66661a30dd07d5d7bfd63871ecc87d53099e5a5a366a39549145`
+DietPi, bookworm: [v9.9](https://dietpi.com/downloads/images/DietPi_NanoPiNEO3-ARMv8-Bookworm.img.xz)\
+sha256: `046599f364ec42edaa8477652ea6c934000ce5e7cba656b37dc6845810dba21c`
 
 ---
 Cluster docker swarm\
